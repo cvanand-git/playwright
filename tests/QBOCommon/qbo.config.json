@@ -1,0 +1,8 @@
+{
+    "PROD":{
+        "QBO_URL": "https://accounts.intuit.com/app/sign-in?app_group=QBO&asset_alias=Intuit.accounting.core.qbowebapp&app_environment=prod",
+        "search_company_xpath": "[id='idsTxtField1']",
+        "account_name_xpath": "//div[@class='account-name']",
+        "QBO_LandingPage": "QuickBooks Landing Page"
+    }
+}

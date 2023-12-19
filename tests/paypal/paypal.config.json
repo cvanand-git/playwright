@@ -1,0 +1,40 @@
+{
+    "PROD": {
+        "PayPalLogin": {
+            "qbo_user": "george_roy_iamtestpass",
+            "qbo_password": "Password1!",
+            "appName": "Accept Card Payments with PayPal"
+        },
+        "PaymentCardDetails":
+        {
+            "testCardNumber": "4020022697711010" ,
+            "testCardExpDate": "01/2024",
+            "testCardCVV": "123"
+        },
+        "UKPayPalCommerceProdLogin": {
+            "paypalSandboxAppSubscriptionUrl": "https://qbo.intuit.com/app/paypalcp?paypalSandbox=true",
+            "companyName" : "PayPalCPUKSubscriptionAutomation",
+            "paypalEmail": "PayPalCPProdUKRegTest03@mailinator.com",
+            "paypalPassword": "Intuit0!",
+            "UKInvoice": {
+                 "SBPayPalEmail": "gayathritestpaypal@gmail.com",
+                 "SBPayPalPassword": "Test@Prod1",
+                 "customerName" : "InvoiceTestCustomer",
+                 "companyName" : "PayPalCPUKInvoiceAutomation"
+                }
+            },
+            "AUPayPalCommerceProdLogin": {
+                "paypalSandboxAppSubscriptionUrl": "https://qbo.intuit.com/app/paypalcp?paypalSandbox=true",
+                "companyName" : "PayPalCPAUSubscriptionAutomation",
+                "paypalEmail": "PayPalCPProdAURegTest03@mailinator.com",
+                "paypalPassword": "TestAU@321",
+                "AUInvoice": {
+                    "SBPayPalEmail": "gayathritestpaypal@gmail.com",
+                    "SBPayPalPassword": "Test@Prod1",
+                    "customerName" : "InvoiceTestCustomerAU",
+                    "companyName" : "PayPalCPAUInvoiceAutomation"
+                }
+            }
+        }
+    }
+  

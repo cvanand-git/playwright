@@ -1,0 +1,10 @@
+{
+    "name": "globalpayments-automation-ui-test",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.intuit.com/SBG-Plugins/globalpayments-automation-ui-test",
+    "license": "MIT",
+    "dependencies": {
+      "@playwright/test": "1.32.0"
+    }
+  }
