@@ -1,0 +1,44 @@
+{ 
+  "E2E": {
+    "GoCardlessMulticurrency": {
+        "qbo_URL": "https://app.e2e.qbo.intuit.com/app/login",
+        "qbo_user": "test1653281785690_iamtestpass", 
+        "qbo_password": "Password1!",
+        "appName": "GoCardless-Stage",
+        "gocardless_email": "george05@gmail.com",
+        "goCardless_password": "@Welcome@2022"
+        
+    },
+    "GoCardlessMandates":
+    {
+      "qbo_URL": "https://app.e2e.qbo.intuit.com/app/login",
+        "qbo_user": "test1677647693149_iamtestpass", 
+        "qbo_password": "Password1!",
+        "appName": "GoCardless-Stage",
+        "gocardless_email": "mandatetestgocardless@gmail.com",
+        "goCardless_password": "@Welcome@2022",
+        "customer_email": "GoCardlessTest01@mailinator.com",
+        "companyName" : "Company_GB_OBI-LL1_20026103_1-3-2023"
+
+    }
+ },
+    "PROD" : {
+      "GoCardlessSubscription": {
+        "qbo_URL": "https://qbo.intuit.com?iux_disable_tests=true&iux_identifier_first_unknown=false",
+        "qbo_user": "GCTesting.iamtestpass@mailinator.com",
+        "qbo_password": "Intuit*123",
+        "appName": "GoCardless for QuickBooks",
+        "goCardlessUser":"tonychang107@gmail.com",
+        "goCardlessPassword":"intuittesting123",
+        "firmName":"GoCardless Automation testings"
+      },
+       "GoCardlessQBOASubscription": {
+        "qbo_URL": "https://qbo.intuit.com?iux_disable_tests=true",
+        "qbo_user": "gocardlessregressioniamtestpass@mailinator.com",
+        "qbo_password": "Gocardless@2020",
+        "goCardless_email":"ghsanthri123@gmail.com",
+        "goCardless_password": "1983SD1988GH",
+        "appName": "GoCardless for QuickBooks"
+      }
+    }
+  } 

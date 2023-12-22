@@ -7,6 +7,7 @@ test('test', async ({ page }) => {
 
     await QBOLogin(
       page,
+      PaypalConfig.PROD.PayPalLogin.qbo_URL,
       PaypalConfig.PROD.PayPalLogin.qbo_user,
       PaypalConfig.PROD.PayPalLogin.qbo_password,
       PaypalConfig.PROD.UKPayPalCommerceProdLogin.companyName

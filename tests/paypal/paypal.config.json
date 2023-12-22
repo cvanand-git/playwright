@@ -1,6 +1,7 @@
 {
     "PROD": {
         "PayPalLogin": {
+            "qbo_URL": "https://accounts.intuit.com/app/sign-in?app_group=QBO&asset_alias=Intuit.accounting.core.qbowebapp&app_environment=prod",
             "qbo_user": "george_roy_iamtestpass",
             "qbo_password": "Password1!",
             "appName": "Accept Card Payments with PayPal"

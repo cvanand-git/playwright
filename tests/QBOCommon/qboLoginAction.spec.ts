@@ -4,10 +4,12 @@
 import {Page, expect } from '@playwright/test';
 import QBOConfig from './qbo.config.json';
 
-async function QBOLogin(page: Page ,username: string,password: string, companyname = ""){
+async function QBOLogin(page: Page ,qbo_URL: string,username: string,password: string, companyname = ""){
   //Login QBO account flow
-  await page.goto(QBOConfig.PROD.QBO_URL);
-  console.log("Navigate QBO URL: ", QBOConfig.PROD.QBO_URL);
+
+  await page.goto(qbo_URL);
+  console.log("Navigate QBO URL: ", qbo_URL);
+
   await page.getByTestId('IdentifierFirstInternationalUserIdInput').fill(username);
   await page.getByTestId('IdentifierFirstSubmitButton').click();
   console.log("Enter user name: ",username);
