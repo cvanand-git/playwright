@@ -30,7 +30,7 @@
         "appName": "GoCardless for QuickBooks",
         "goCardlessUser":"tonychang107@gmail.com",
         "goCardlessPassword":"intuittesting123",
-        "firmName":"GoCardless Automation testings"
+        "companyName":"GoCardless Automation testings"
       },
        "GoCardlessQBOASubscription": {
         "qbo_URL": "https://qbo.intuit.com?iux_disable_tests=true",
