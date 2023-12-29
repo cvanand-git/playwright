@@ -4,7 +4,7 @@
 
 "@playwright/test@1.32.0":
   version "1.32.0"
-  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/@playwright/test/-/test-1.32.0.tgz#0cc4c179e62995cc123adb12fdfaa093fed282c4"
+  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/@playwright/test/-/test-1.32.0.tgz"
   integrity sha512-zOdGloaF0jeec7hqoLqM5S3L2rR4WxMJs6lgiAeR70JlH7Ml54ZPoIIf3X7cvnKde3Q9jJ/gaxkFh8fYI9s1rg==
   dependencies:
     "@types/node" "*"
@@ -12,24 +12,24 @@
   optionalDependencies:
     fsevents "2.3.2"
 
-"@types/node@*":
+"@types/node@*", "@types/node@^20.10.5":
   version "20.10.5"
-  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/@types/node/-/node-20.10.5.tgz#47ad460b514096b7ed63a1dae26fad0914ed3ab2"
+  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/@types/node/-/node-20.10.5.tgz"
   integrity sha512-nNPsNE65wjMxEKI93yOP+NPGGBJz/PoN3kZsVLee0XMiJolxSekEVD8wRwBUBqkwc7UWop0edW50yrCQW4CyRw==
   dependencies:
     undici-types "~5.26.4"
 
 fsevents@2.3.2:
   version "2.3.2"
-  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
+  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/fsevents/-/fsevents-2.3.2.tgz"
   integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
 
 playwright-core@1.32.0:
   version "1.32.0"
-  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/playwright-core/-/playwright-core-1.32.0.tgz#730c2d1988d30377480b925aaa6c1b1e2442d67e"
+  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/playwright-core/-/playwright-core-1.32.0.tgz"
   integrity sha512-Z9Ij17X5Z3bjpp6XKujGBp9Gv4eViESac9aDmwgQFUEJBW0K80T21m/Z+XJQlu4cNsvPygw33b6V1Va6Bda5zQ==
 
 undici-types@~5.26.4:
   version "5.26.5"
-  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/undici-types/-/undici-types-5.26.5.tgz#bcd539893d00b56e964fd2657a4866b221a65617"
+  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/undici-types/-/undici-types-5.26.5.tgz"
   integrity sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==

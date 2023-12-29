@@ -25,12 +25,12 @@
     "PROD" : {
       "GoCardlessSubscription": {
         "qbo_URL": "https://qbo.intuit.com?iux_disable_tests=true&iux_identifier_first_unknown=false",
-        "qbo_user": "GCTesting.iamtestpass@mailinator.com",
-        "qbo_password": "Intuit*123",
+        "qbo_user": "george_roy_iamtestpass",
+        "qbo_password": "Password1!",
         "appName": "GoCardless for QuickBooks",
         "goCardlessUser":"tonychang107@gmail.com",
         "goCardlessPassword":"intuittesting123",
-        "companyName":"GoCardless Automation testings"
+        "companyName":"UKtestCompany"
       },
        "GoCardlessQBOASubscription": {
         "qbo_URL": "https://qbo.intuit.com?iux_disable_tests=true",
@@ -38,7 +38,8 @@
         "qbo_password": "Gocardless@2020",
         "goCardless_email":"ghsanthri123@gmail.com",
         "goCardless_password": "1983SD1988GH",
-        "appName": "GoCardless for QuickBooks"
+        "appName": "GoCardless for QuickBooks",
+        "companyName":"gocardlessregression"
       }
     }
   } 
