@@ -5,7 +5,8 @@
     "repository": "https://github.intuit.com/SBG-Plugins/globalpayments-automation-ui-test",
     "license": "MIT",
     "dependencies": {
-        "@playwright/test": "1.32.0"
+        "@playwright/test": "1.32.0",
+        "date-and-time": "^3.0.3"
     },
     "devDependencies": {
         "@types/node": "^20.10.5"

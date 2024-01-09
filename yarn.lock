@@ -19,6 +19,11 @@
   dependencies:
     undici-types "~5.26.4"
 
+date-and-time@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/date-and-time/-/date-and-time-3.0.3.tgz"
+  integrity sha512-CmHCeTixc3KA5pcLTVs9JCFhmJMFTBsmSsgHnNed4YDNw9yUOrjjRn3zALy8eMgqmTO+4U8k5jl1peC7IoezfA==
+
 fsevents@2.3.2:
   version "2.3.2"
   resolved "https://registry.npmjs.intuit.com:443/artifactory/api/npm/npm-intuit/fsevents/-/fsevents-2.3.2.tgz"

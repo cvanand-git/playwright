@@ -6,7 +6,8 @@
         "qbo_password": "Password1!",
         "appName": "GoCardless-Stage",
         "gocardless_email": "george05@gmail.com",
-        "goCardless_password": "@Welcome@2022"
+        "goCardless_password": "@Welcome@2022",
+        "companyName" : "Company_GB_OBI-LL1_20024616_23-5-2022"
         
     },
     "GoCardlessMandates":
