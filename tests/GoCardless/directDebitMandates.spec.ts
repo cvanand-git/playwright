@@ -22,6 +22,6 @@ test('test', async ({ page }) => {
       console.log("click : Direct Debit Mandates");
       await page.getByRole('link', { name: 'Direct Debit Mandates' }).click();
       
-      console.log("direct debit mandates testn is successful");
+      console.log("direct debit mandates test is successful");
 
   })
